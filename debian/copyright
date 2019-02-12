@@ -1,6 +1,6 @@
 Name: Orayta
 Maintainer: Moshe Wagner <moshe.wagner@gmail.com>
-Source: https://orayta.googlecode.com/svn/trunk/
+Source: https://github.com/MosheWagner/Orayta-QT
 
 Copyright: (C) 2010 - 2014  Moshe Wagner <moshe.wagner@gmail.com>
 License: GPL-2+

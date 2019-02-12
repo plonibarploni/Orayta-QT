@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Moshe Wagner <moshe.wagner@gmail.com>
 Build-Depends: libqt5webkit5-dev, debhelper (>= 9), qt5-default, qtbase5-dev, libfribidi-dev, zlib1g-dev, qt5-qmake, qttools5-dev-tools, qtlocation5-dev, qtdeclarative5-dev, libsqlite3-dev, qtsensors5-dev|libqt5sensors5-dev
 Standards-Version: 3.8.4
-Homepage: http://orayta.googlecode.com
+Homepage: https://github.com/MosheWagner/Orayta-QT
 
 Package: orayta
 Architecture: any
@@ -18,4 +18,4 @@ Description:Jewish books program
  intends to give simple access to as many Jewish sources as possible, 
  from the Bible, Mishna and Talmud,
  to books written in the last years, freely and off-line.
- Find us at: http://orayta.googlecode.com/
+ Find us at: https://github.com/MosheWagner/Orayta-QT
